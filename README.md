@@ -19,3 +19,4 @@ Originaire de Beauvais dans l'Oise, où j'ai fait mon baccalauréat. J'ai par la
   Lycée Paul Langevin (Beauvais)
 
 ### ☎️ Contact
+  ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
