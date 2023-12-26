@@ -9,6 +9,30 @@ Hello 👋
 
 ## 💻 Compétences
 
+### Dev' Back
+
+* PHP 5-8
+* Symfony 3-6
+* MariaDB, MySQL
+* Elasticsearch
+* API Platform
+* PHP Unit
+
+### Dev' Front
+
+* Javascript
+* HTML
+* CSS, SASS
+* NPM, Gulp
+* Frameworks: React, Tailwind, Bootstrap
+
+### DevOps & SysAdmin
+
+* Docker
+* Git
+
+### Outils
+
 ## 🏫 Formations
 Originaire de Beauvais dans l'Oise, où j'ai fait mon baccalauréat. J'ai par la suite effectué le reste de ma formation à Amiens dans la Somme.
 
@@ -24,5 +48,3 @@ Originaire de Beauvais dans l'Oise, où j'ai fait mon baccalauréat. J'ai par la
 * ``2013`` *Baccalauréat Technologique Système d'Information et Numérique*
 
   Lycée Paul Langevin (Beauvais)
-
-## ☎️ Contact
