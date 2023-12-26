@@ -1,6 +1,15 @@
-### Hi there 👋
+# <p style="text-align: center;">Maxime Patino</p>
+### <p style="text-align: center;">Developpeur PHP</p>
+Hello 👋
+
+### 🚀 Expériences
+### 💻 Compétences
+### 🏫 Formations
+### ☎️ Contact
+
 
 <!--
+### Hi there 👋
 **m-patino/m-patino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
