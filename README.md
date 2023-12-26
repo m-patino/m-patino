@@ -13,10 +13,10 @@ Originaire de Beauvais dans l'Oise, où j'ai fait mon baccalauréat. J'ai par la
 * ``2015`` *BTS Services informatiques aux organisations*
 
   Lycée Édouard Gand (Amiens)
+
   
 * ``2013`` *Baccalauréat Technologique Système d'Information et Numérique*
 
   Lycée Paul Langevin (Beauvais)
 
 ### ☎️ Contact
-  ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
